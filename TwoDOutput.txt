@@ -1,0 +1,112 @@
+Please enter the number of rows in you array
+Please enter the length of row 1
+Please enter the value
+Please enter the value
+Please enter the length of row 2
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the length of row 3
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the length of row 4
+Please enter the value
+Please enter the value
+Please enter the length of row 5
+Please enter the value
+acfjl
+acfkl
+acgjl
+acgkl
+achjl
+achkl
+acijl
+acikl
+adfjl
+adfkl
+adgjl
+adgkl
+adhjl
+adhkl
+adijl
+adikl
+aefjl
+aefkl
+aegjl
+aegkl
+aehjl
+aehkl
+aeijl
+aeikl
+bcfjl
+bcfkl
+bcgjl
+bcgkl
+bchjl
+bchkl
+bcijl
+bcikl
+bdfjl
+bdfkl
+bdgjl
+bdgkl
+bdhjl
+bdhkl
+bdijl
+bdikl
+befjl
+befkl
+begjl
+begkl
+behjl
+behkl
+beijl
+beikl
+Please enter the number of rows in you array
+Please enter the length of row 1
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the length of row 2
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the value
+fq
+fe
+fs
+fr
+uq
+ue
+us
+ur
+nq
+ne
+ns
+nr
+Please enter the number of rows in you array
+Please enter the length of row 1
+Please enter the value
+Please enter the value
+Please enter the length of row 2
+Please enter the value
+Please enter the value
+Please enter the value
+Please enter the length of row 3
+Please enter the value
+Please enter the value
+AeU
+AeG
+AfU
+AfG
+AgU
+AgG
+BeU
+BeG
+BfU
+BfG
+BgU
+BgG
+Please enter the number of rows in you array
